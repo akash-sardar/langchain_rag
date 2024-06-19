@@ -11,3 +11,5 @@ sse_starlette
 ipykernel
 beautifulsoup4
 pypdf
+chromadb
+faiss-cpu
